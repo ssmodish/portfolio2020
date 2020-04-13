@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),r=(n("Wbzz"),function(){return a.a.createElement("div",null,"Hi! ")}),i=n("Bl7J"),o=n("vrFN");t.default=function(){return a.a.createElement(i.a,null,a.a.createElement(o.a,{title:"Home"}),a.a.createElement("h2",null,"This is the portfolio of Steve Smodish"),a.a.createElement(r,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-900dc619af57116ac33a.js.map
